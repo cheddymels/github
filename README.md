@@ -40,7 +40,7 @@ Este proyecto corresponde a una práctica académica, representando una tienda o
 
 ---
 
-## Notas para el docente
+## Notas 
 Proyecto desarrollado como parte de la actividad práctica del curso.  
 No incluye backend, lógica real de carrito ni persistencia de datos.  
 La temática narrativa de la tienda es parte de la propuesta creativa del estudiante.
