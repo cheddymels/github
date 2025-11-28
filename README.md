@@ -1,4 +1,4 @@
-# Ardid — Frontend (Proyecto de práctica)
+# Ardid — Frontend 
 
 ## Descripción
 **Ardid** es el frontend de una tienda ficticia inspirada en la idea del internet como una forma de vida: un lugar donde aún es posible escapar, reinventarse y crear universos propios.  
